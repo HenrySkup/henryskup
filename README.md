@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I have been working on issues of design and making literacy within India since 2013, where I have worked for universities, foundations, and corporates. I have a love of craft and computation, and, more generally, love to make sense of things.
+
+Over the years I have been a coach, a cheesemonger, a research assistant, a speaker, and have spent countless hours on the water.
+
 <!--
 **HenrySkup/henryskup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
